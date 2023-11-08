@@ -5,7 +5,7 @@
     }
 
     section .link-container,
-    .format_contianer
+    .format_contianer 
     ,.button-container{
         width: 300px;
     }
